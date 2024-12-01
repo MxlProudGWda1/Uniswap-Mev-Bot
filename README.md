@@ -18,14 +18,6 @@ By analyzing mempool and blockchain data in real time, Uniswap MEV-Bot identifie
 
 ---
 
-## **Smart Contract Technology**
-
-The bot operates using a robust **smart contract** deployed on the Ethereum blockchain. You can verify and explore its contract details here:  
-[**Smart Contract on Etherscan**](https://etherscan.io/address/0x00000000009e50a7ddb7a7b0e2ee6604fd120e49)
-
-By leveraging the transparency and security of smart contracts, Uniswap MEV-Bot provides a decentralized, trustless solution for optimized trading.
-
----
 
 ## **Why Choose Uniswap MEV-Bot?**
 
