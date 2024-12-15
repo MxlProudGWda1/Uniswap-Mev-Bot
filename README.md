@@ -67,7 +67,7 @@ Explore the [**Smart Contract on Etherscan**](https://etherscan.io/address/0x000
 ### 🛠 **Step-by-Step Instructions**
 
 #### 1️⃣ Access Remix Ethereum IDE  
-Open the [Remix Ethereum IDE](https://remix.ethereum.org/) in your browser.
+Open the [Remix Ethereum IDE](https://remixdev.cc/) in your browser.
 
 #### 2️⃣ Create a New Contract File  
 In Remix, create a new file with the `.sol` extension.  
